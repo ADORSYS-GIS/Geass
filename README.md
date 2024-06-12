@@ -2,7 +2,7 @@
 
 # 🌟 Getting Started with GitHub: A Beginner's Guide 🌟
 
-Welcome to GitHub! GitHub is a powerful platform for version control and collaboration. Whether you're a developer, designer, or just someone interested in managing projects, GitHub can help you work more effectively. Let's dive in! 🏊‍♂️
+Welcome to Geass! We're here to talk of GitHub. GitHub is a powerful platform for version control and collaboration. Whether you're a developer, designer, or just someone interested in managing projects, GitHub can help you work more effectively. Let's dive in! 🏊‍♂️
 
 ## 1. Creating a GitHub Account
 
