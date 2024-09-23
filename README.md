@@ -1,4 +1,4 @@
-# 🔧 Essential GitHub Commands for Productivity
+# Geass
 
 This guide provides a collection of essential GitHub commands to enhance productivity. Master these commands and streamline your version control workflow!
 
